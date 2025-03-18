@@ -1,8 +1,6 @@
-# React + Vite
+# Skating Scores
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learning to work with d3.js library.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/b2facb46-8d68-4bec-b01d-ca8bc00d7e0f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
