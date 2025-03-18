@@ -1,0 +1,782 @@
+[
+  {
+    "Name": "Amber Glenn",
+    "Country": "US",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 70.04,
+        "lpScore": 142.03,
+        "spElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 0,
+            "TotalValue": 8
+          },
+          {
+            "Name": "3F+3Tq",
+            "BaseValue": 9.5,
+            "GradeOfExecution": -1.74,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 8,
+            "GradeOfExecution": -0.07,
+            "TotalValue": 7.93
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 8.13
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.54,
+            "TotalValue": 8.54
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.17,
+            "TotalValue": 9.17
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.83,
+            "TotalValue": 9.83
+          },
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "3Lz+2T",
+            "BaseValue": 7.2,
+            "GradeOfExecution": 1.18,
+            "TotalValue": 8.38
+          },
+          {
+            "Name": "2S",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 3,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 3.13
+          },
+          {
+            "Name": "3Lo+2A+2A+SEQ",
+            "BaseValue": 12.65,
+            "GradeOfExecution": 0.77,
+            "TotalValue": 13.42
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -1.29,
+            "TotalValue": 4.54
+          },
+          {
+            "Name": "CCoSp2",
+            "BaseValue": 2.5,
+            "GradeOfExecution": 0.68,
+            "TotalValue": 3.18
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 5.89,
+            "GradeOfExecution": 1.26,
+            "TotalValue": 6.65
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.75,
+            "TotalValue": 4.05
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3.0,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 4.21
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 0.62,
+            "TotalValue": 3.32
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Name": "Mone Chiba",
+    "Country": "JP",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 69.33,
+        "lpScore": 139.52,
+        "spElements": [
+          {
+            "Name": "3Lz+3T",
+            "BaseValue": 10.1,
+            "GradeOfExecution": 0.34,
+            "TotalValue": 10.44
+          },
+          {
+            "Name": "2A",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.9,
+            "TotalValue": 4.2
+          },
+          {
+            "Name": "FCSp4",
+            "BaseValue": 3.2,
+            "GradeOfExecution": 0.64,
+            "TotalValue": 3.84
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -0.23,
+            "TotalValue": 5.6
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1.05,
+            "TotalValue": 4.55
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.99,
+            "TotalValue": 4.29
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 1.04,
+            "TotalValue": 3.74
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.44,
+            "TotalValue": 10.94
+          },
+          {
+            "Name": "3S",
+            "BaseValue": 4.3,
+            "GradeOfExecution": 1.11,
+            "TotalValue": 5.41
+          },
+          {
+            "Name": "3Loq",
+            "BaseValue": 4.9,
+            "GradeOfExecution": -2.24,
+            "TotalValue": 2.66
+          },
+          {
+            "Name": "2A",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3,
+            "GradeOfExecution": 1.5,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "FCCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 0.85,
+            "TotalValue": 4.35
+          },
+          {
+            "Name": "3Lz+2A+SEQ",
+            "BaseValue": 10.12,
+            "GradeOfExecution": 0.25,
+            "TotalValue": 10.37
+          },
+          {
+            "Name": "3Lz+2T+2Lo",
+            "BaseValue": 9.79,
+            "GradeOfExecution": -0.17,
+            "TotalValue": 9.62
+          },
+          {
+            "Name": "3F",
+            "BaseValue": 5.83,
+            "GradeOfExecution": 0.45,
+            "TotalValue": 6.28
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 3.9,
+            "GradeOfExecution": 1.06,
+            "TotalValue": 4.96
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 1.08,
+            "TotalValue": 3.78
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1.08,
+            "TotalValue": 4.7
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Name": "Kaori Sakamoto",
+    "Country": "JP",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 63.98,
+        "lpScore": 137.15,
+        "spElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 0,
+            "TotalValue": 8
+          },
+          {
+            "Name": "3F+3Tq",
+            "BaseValue": 9.5,
+            "GradeOfExecution": -1.74,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 8,
+            "GradeOfExecution": -0.07,
+            "TotalValue": 7.93
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 8.13
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.54,
+            "TotalValue": 8.54
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.17,
+            "TotalValue": 9.17
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.83,
+            "TotalValue": 9.83
+          },
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "3Lz+2T",
+            "BaseValue": 7.2,
+            "GradeOfExecution": 1.18,
+            "TotalValue": 8.38
+          },
+          {
+            "Name": "2S",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 3,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 3.13
+          },
+          {
+            "Name": "3Lo+2A+2A+SEQ",
+            "BaseValue": 12.65,
+            "GradeOfExecution": 0.77,
+            "TotalValue": 13.42
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -1.29,
+            "TotalValue": 4.54
+          },
+          {
+            "Name": "CCoSp2",
+            "BaseValue": 2.5,
+            "GradeOfExecution": 0.68,
+            "TotalValue": 3.18
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 5.89,
+            "GradeOfExecution": 1.26,
+            "TotalValue": 6.65
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.75,
+            "TotalValue": 4.05
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3.0,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 4.21
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 0.62,
+            "TotalValue": 3.32
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Name": "Wakaba Higuchi",
+    "Country": "JP",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 61.61,
+        "lpScore": 134.35,
+        "spElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 0,
+            "TotalValue": 8
+          },
+          {
+            "Name": "3F+3Tq",
+            "BaseValue": 9.5,
+            "GradeOfExecution": -1.74,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 8,
+            "GradeOfExecution": -0.07,
+            "TotalValue": 7.93
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 8.13
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.54,
+            "TotalValue": 8.54
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.17,
+            "TotalValue": 9.17
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.83,
+            "TotalValue": 9.83
+          },
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "3Lz+2T",
+            "BaseValue": 7.2,
+            "GradeOfExecution": 1.18,
+            "TotalValue": 8.38
+          },
+          {
+            "Name": "2S",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 3,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 3.13
+          },
+          {
+            "Name": "3Lo+2A+2A+SEQ",
+            "BaseValue": 12.65,
+            "GradeOfExecution": 0.77,
+            "TotalValue": 13.42
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -1.29,
+            "TotalValue": 4.54
+          },
+          {
+            "Name": "CCoSp2",
+            "BaseValue": 2.5,
+            "GradeOfExecution": 0.68,
+            "TotalValue": 3.18
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 5.89,
+            "GradeOfExecution": 1.26,
+            "TotalValue": 6.65
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.75,
+            "TotalValue": 4.05
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3.0,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 4.21
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 0.62,
+            "TotalValue": 3.32
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Name": "Hana Yoshida",
+    "Country": "JP",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 64.23,
+        "lpScore": 129.79,
+        "spElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 0,
+            "TotalValue": 8
+          },
+          {
+            "Name": "3F+3Tq",
+            "BaseValue": 9.5,
+            "GradeOfExecution": -1.74,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 8,
+            "GradeOfExecution": -0.07,
+            "TotalValue": 7.93
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 8.13
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.54,
+            "TotalValue": 8.54
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.17,
+            "TotalValue": 9.17
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.83,
+            "TotalValue": 9.83
+          },
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "3Lz+2T",
+            "BaseValue": 7.2,
+            "GradeOfExecution": 1.18,
+            "TotalValue": 8.38
+          },
+          {
+            "Name": "2S",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 3,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 3.13
+          },
+          {
+            "Name": "3Lo+2A+2A+SEQ",
+            "BaseValue": 12.65,
+            "GradeOfExecution": 0.77,
+            "TotalValue": 13.42
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -1.29,
+            "TotalValue": 4.54
+          },
+          {
+            "Name": "CCoSp2",
+            "BaseValue": 2.5,
+            "GradeOfExecution": 0.68,
+            "TotalValue": 3.18
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 5.89,
+            "GradeOfExecution": 1.26,
+            "TotalValue": 6.65
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.75,
+            "TotalValue": 4.05
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3.0,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 4.21
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 0.62,
+            "TotalValue": 3.32
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Name": "Rino Matsuike",
+    "Country": "JP",
+    "Category": "Womens",
+    "Y24": {
+      "GrandPrixFinal": {
+        "Name": "Grand Prix Final",
+        "spScore": 62.63,
+        "lpScore": 126.39,
+        "spElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 0,
+            "TotalValue": 8
+          },
+          {
+            "Name": "3F+3Tq",
+            "BaseValue": 9.5,
+            "GradeOfExecution": -1.74,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "CCoSp4",
+            "BaseValue": 3.5,
+            "GradeOfExecution": 1,
+            "TotalValue": 4.5
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 8,
+            "GradeOfExecution": -0.07,
+            "TotalValue": 7.93
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 8.13
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 8,
+            "GradeOfExecution": 0.54,
+            "TotalValue": 8.54
+          },
+          {
+            "Name": "StSq4",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.17,
+            "TotalValue": 9.17
+          }
+        ],
+        "lpElements": [
+          {
+            "Name": "3A",
+            "BaseValue": 8,
+            "GradeOfExecution": 1.83,
+            "TotalValue": 9.83
+          },
+          {
+            "Name": "3F+3T",
+            "BaseValue": 9.5,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 7.76
+          },
+          {
+            "Name": "3Lz+2T",
+            "BaseValue": 7.2,
+            "GradeOfExecution": 1.18,
+            "TotalValue": 8.38
+          },
+          {
+            "Name": "2S",
+            "BaseValue": 1.2,
+            "GradeOfExecution": 0.07,
+            "TotalValue": 1.27
+          },
+          {
+            "Name": "FSSp4",
+            "BaseValue": 3,
+            "GradeOfExecution": 0.13,
+            "TotalValue": 3.13
+          },
+          {
+            "Name": "3Lo+2A+2A+SEQ",
+            "BaseValue": 12.65,
+            "GradeOfExecution": 0.77,
+            "TotalValue": 13.42
+          },
+          {
+            "Name": "3Fq",
+            "BaseValue": 5.83,
+            "GradeOfExecution": -1.29,
+            "TotalValue": 4.54
+          },
+          {
+            "Name": "CCoSp2",
+            "BaseValue": 2.5,
+            "GradeOfExecution": 0.68,
+            "TotalValue": 3.18
+          },
+          {
+            "Name": "3Lo",
+            "BaseValue": 5.89,
+            "GradeOfExecution": 1.26,
+            "TotalValue": 6.65
+          },
+          {
+            "Name": "StSq3",
+            "BaseValue": 3.3,
+            "GradeOfExecution": 0.75,
+            "TotalValue": 4.05
+          },
+          {
+            "Name": "ChSq1",
+            "BaseValue": 3.0,
+            "GradeOfExecution": 1.21,
+            "TotalValue": 4.21
+          },
+          {
+            "Name": "LSp4",
+            "BaseValue": 2.7,
+            "GradeOfExecution": 0.62,
+            "TotalValue": 3.32
+          }
+        ]
+      }
+    }
+  }
+]
